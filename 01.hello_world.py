@@ -4,7 +4,7 @@ world = "hello"
 print(f"{world} {hello} !!!!!!")
 
 def hello(value):
-    print()
+    print(value)
 
 
 hello("Yooooo!!!!")
